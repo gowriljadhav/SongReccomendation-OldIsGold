@@ -1,0 +1,31 @@
+.App {
+  max-width: 500px;
+  margin: auto;
+  padding: 2rem;
+  /* font-family: 'Indie Flower', cursive; */
+}
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+body {
+  font-family: "Indie Flower", cursive;
+  background-color: #071a52;
+  color: #a7ff83;
+}
+.footer {
+  background-color: #a7ff83;
+  color: #086972;
+  text-decoration: none;
+  text-align: center;
+  padding: 0.5%;
+  font-family: monospace;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+.linkfoot {
+  text-decoration: none;
+
+  color: #086972;
+  text-align: center;
+  font-size: larger;
+  font-weight: bolder;
+}
